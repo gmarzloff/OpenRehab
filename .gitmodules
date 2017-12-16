@@ -1,0 +1,6 @@
+[submodule "tbi"]
+	path = tbi
+	url = https://github.com/gmarzloff/OpenRehab-TBI.git
+[submodule "sci"]
+	path = sci
+	url = https://github.com/gmarzloff/OpenRehab-SCI.git
