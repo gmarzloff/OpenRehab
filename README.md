@@ -1,2 +1,2 @@
 # OpenRehab
-OpenRehab Complete, includes landing page and includes all web apps as submodules
+OpenRehab Complete, includes landing page and all available web apps linked as submodules
